@@ -58,7 +58,10 @@ In the current day and age, news and information often gets transmitted on socia
 ### User Stories
 
 * AAU, I want to be able to sign up and log in
-* 
+* AAU I would like to be able to sign up for an account and log in.
+* AAU I would like to be able to set my current location.
+* AAU I would like to see a list of tweets in my vicinity that I might be concerned about.
+
 
 ### Unresolved problems/ Major Hurdles
 
