@@ -17,6 +17,7 @@ In the current day and age, news and information often gets transmitted on socia
 * Flask-PyMongo
 * Node.js
 * React.js
+* Panda
 * React-Bootstrap
 * SASS
 
@@ -40,9 +41,8 @@ In the current day and age, news and information often gets transmitted on socia
 
 ### Screenshots
 
-![Landing Page]()
-![Login]()
-![DashBoard]()
+![Landing Page](./screenshots/landing.png)
+![DashBoard](./screenshots/dashboard.png)
 
 
 ### Wireframes
@@ -64,5 +64,12 @@ In the current day and age, news and information often gets transmitted on socia
 
 
 ### Unresolved problems/ Major Hurdles
+There were relatively few resources for learning Flask and authentication with Flask and it took me a while to piece together from various resources the overall structure and workflow for a Flask app. As a result, I was unfortunately unable to get to a lot of the features I had intended to include. I did not manage to implement an alert for potential emergencies, and I was not able to display tweets obtained from my server directly on my front end. The tweets that are displayed are currently hard-coded in, and the logic for filtering the tweets is rudimentary. Currently the logic is simply based upon a simple sentiment analysis, and any tweets with a negative sentiment is automatically included. 
 
 ### Future developments
+* Fix display of live tweets
+* Implement alert system
+* Improve logic behind alerts and filter tweets better
+* Load live stream of tweets
+* Include resources for disasters
+* Responsive design
