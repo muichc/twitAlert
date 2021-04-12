@@ -47,12 +47,12 @@ In the current day and age, news and information often gets transmitted on socia
 
 ### Wireframes
 
-![Wireframe-Landing Page]()
-![Wireframe-Login]()
-![Wireframe-Dashboard]()
+![Wireframe-Landing Page](./wireframes/landing-wireframe.png)
+![Wireframe-Login](./wireframes/login-wireframe.png)
+![Wireframe-Dashboard](./wireframes/dashboard-wireframe.png)
 
 ### ERD
-![User model]()
+![User model](./dataModels/user-model.png)
 
 
 ### User Stories
